@@ -19,10 +19,10 @@ The datasets utilized in this project were extracted from **Eurostat**, ensuring
 *   **Power BI Desktop**: End-to-end BI solution development.
 *   **Power Query**: Multi-source data extraction (Excel), data cleaning, structural transformation, and establishing data relationships.
 *   **Advanced Data Visualization**: Designed multi-page dashboards utilizing a precise selection of visuals to discover insights:
-    *   **Donut Chart** (Γράφημα Δακτυλίου)
-    *   **Scatter Chart** (Γράφημα Διασποράς)
-    *   **Line and Stacked Column Chart** (Γράφημα Γραμμών και Συσσωρευμένων Στηλών)
-    *   **Clustered Bar Chart** (Γράφημα Ομαδοποιημένων Ράβδων)
+    *   **Donut Chart**
+    *   **Scatter Chart** 
+    *   **Line and Stacked Column Chart** 
+    *   **Clustered Bar Chart** 
     *   **xViz Bubble Scatter Chart v3.0.1** (Advanced Custom Visual for multi-dimensional corellation analysis)
 *   **Advanced Filtering**: Implemented slicers and page-level filters for dynamic chronological analysis across the 3 pandemic phases.
 *   **Data Storytelling**: Translated complex data models into a comprehensive PowerPoint presentation for strategic decision-making.
