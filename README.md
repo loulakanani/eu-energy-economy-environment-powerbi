@@ -1,7 +1,7 @@
-# EU Energy, Economy & Environment Nexus: A Power BI Analysis (2018-2024)
+# EU Energy, Economy & Environment Nexus: A Power BI Analysis (2018-2023)
 
 ## Project Overview
-This Business Intelligence project analyzes the dynamic interaction between economic activity, the energy mix, and environmental pollution across European Union member-states. The study focuses on three distinct phases relative to the COVID-19 pandemic: Pre-COVID (2018-2019), Pandemic Era (2020-2021), and Post-COVID (2023-2024).
+This Business Intelligence project analyzes the dynamic interaction between economic activity, the energy mix, and environmental pollution across European Union member-states. The study focuses on three distinct phases relative to the COVID-19 pandemic: Pre-COVID (2018-2019), Pandemic Era (2020-2021), and Post-COVID (2022-2023).
 
 ## Data Source
 The datasets utilized in this project were extracted from **Eurostat**, ensuring data integrity, strict methodology, and absolute comparability among EU nations. Three main dimensions were integrated:
