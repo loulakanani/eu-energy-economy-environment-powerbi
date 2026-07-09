@@ -29,4 +29,4 @@ The datasets utilized in this project were extracted from **Eurostat**, ensuring
 
 ## Repository Contents
 *   `Project ΚΑΝΙ ΛΟΥΛΑ.pbix`: The complete interactive Power BI dashboard file.
-*   `ΠΑΡΟΥΣΙΑΣΗ ΛΟΥΛΑ ΚΑΝΑΝΙ.pptx`: The executive summary and presentation slides.
+*   `ΠΑΡΟΥΣΙΑΣΗ ΛΟΥΛΑ ΚΑΝΑΝΙ.pptx`: The executive summary and presentation slides (Delivered in Greek).
